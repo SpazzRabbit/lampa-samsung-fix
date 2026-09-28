@@ -1,0 +1,21 @@
+{
+  "name": "lampa-samsung-fix",
+  "appName": "Lampa",
+  "version": "1.0.0",
+  "description": "Lampa, в которой на Samsung играют avi: сервис на самом телевизоре на лету перекладывает avi в matroska без перекодирования",
+  "packageType": "mods",
+  "websiteURL": "http://lampa.mx",
+  "main": "inject.js",
+  "serviceFile": "service.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaStop",
+    "MediaPause",
+    "MediaRewind",
+    "MediaFastForward",
+    "ChannelUp",
+    "ChannelDown"
+  ],
+  "license": "MIT"
+}
